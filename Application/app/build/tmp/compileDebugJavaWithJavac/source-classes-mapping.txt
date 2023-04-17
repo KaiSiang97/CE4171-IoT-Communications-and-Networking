@@ -1,0 +1,15 @@
+com/example/iotproject/ImageClass.java
+ com.example.iotproject.ImageClass
+com/example/iotproject/BuildConfig.java
+ com.example.iotproject.BuildConfig
+com/example/iotproject/NetworkClient.java
+ com.example.iotproject.NetworkClient
+com/example/iotproject/UploadPic.java
+ com.example.iotproject.UploadPic
+com/example/iotproject/MainActivity.java
+ com.example.iotproject.MainActivity
+ com.example.iotproject.MainActivity$1
+ com.example.iotproject.MainActivity$2
+ com.example.iotproject.MainActivity$3
+ com.example.iotproject.MainActivity$4
+ com.example.iotproject.MainActivity$4$1
