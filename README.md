@@ -16,3 +16,7 @@ You may need to change to dependencies in build.gradle (:app) file as it can be 
 
 ## Local Server
 You need to use the Administrator Privileges to download the TensorFlow, Pillow and Flask using Python command.
+To run the Local Server, you need to disable the Windows Firewall so that the packet can communicate with the IoT devices.
+
+For the testing of the Application apk on the Android Devices.
+Remember to disable the Windows Firewall, connect the IoT devices on the same network as the Cloud Server (Own PC).
